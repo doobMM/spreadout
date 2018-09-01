@@ -5,20 +5,28 @@
   <meta charset="utf-8">
 </head>
 <body>
- <p> High Risk High Return
-  <ul>
+ <p> <h1> Rule </h1>
+  <ul> Put your worksheet into desk </ul>
+  <ul> High Risk High Reward </ul>
+  <ul> Anybody can contribute to team. </ul>
+  <ul> Try to speak in English </ul>
+  <ul> super-difficult question for final people.
+  <ul> If line fall short to the person chosen,
     <h3> Level. 1 </h3>
+    <h6> 10 point </h6>
       <img src="lv1_peo.jpg" width="500">
     <li>Question 1<a href = "1_1"></a></li>
     <li>Question 2<a href = "1_2"></a></li>
     <li>Question 3<a href = "1_3"></a></li>
     <li>Question 4<a href = "1_4"></a></li>
     <h3> Level. 2 </h3>
+    <h6> 20 point </h6>
     <img src="lv2_peo.jpg" width="500">
     <li>Question 1<a href = "2_1"></a></li>
     <li>Question 2<a href = "2_2"></a></li>
     <li>Question 3<a href = "2_3"></a></li>
     <h3> Level. 3 </h3>
+    <h6> 30 point </h6>
     <img src="lv3_peo.jpg" width="500">
     <li>Question 1<a href = "3_1"></a></li>
     <li>Question 2<a href = "3_2"></a></li>
